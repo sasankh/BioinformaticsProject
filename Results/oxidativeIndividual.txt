@@ -1,0 +1,2580 @@
+Summary of Analysis
+
+
+____________________________________
+
+Protein No. 1
+Human counterpart : NP_004994.1
+____________________________________
+NP_004994.1 -> hsa
+NP_001065288.1 -> ptr
+XP_001112404.1 -> mcc
+XP_536932.3 -> cfa
+NP_001035578.1 -> bta
+NP_082453.2 -> mmu
+NP_001099764.1 -> rno
+XP_004945320.1 -> gga
+XP_311483.3 -> aga
+NP_499549.1 -> cel
+NP_001005125.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 11
+Protein present in : xtr, cel, aga, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, dme, dre, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group9, 
+Not present in Groups : Group8, Group10, Group11, 
+Other Homolog Not in search:
+XP_006541434.1 -> mmu -> NONE
+
+
+____________________________________
+
+Protein No. 2
+Human counterpart : NP_001679.2
+____________________________________
+NP_001679.2 -> hsa
+XP_513639.1 -> ptr
+XP_537027.2 -> cfa
+NP_001033590.1 -> bta
+NP_033855.2 -> mmu
+NP_599192.1 -> rno
+XP_003749420.1 -> rno
+XP_417993.3 -> gga
+NP_001005960.1 -> dre
+NP_524011.1 -> dme
+XP_322024.4 -> aga
+NP_989118.1 -> xtr
+
+Total homolog = 12
+Total distinct organism = 11
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 3
+Human counterpart : NP_001002027.1
+____________________________________
+NP_001002027.1 -> hsa
+XP_001172743.1 -> ptr
+NP_788822.1 -> bta
+NP_001154891.1 -> mmu
+NP_059007.1 -> rno
+XP_001233603.1 -> gga
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : gga, rno, mmu, bta, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, xtr, 
+Present in Groups : Group1, Group2, Group5, Group6, 
+Not present in Groups : Group3, Group4, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 4
+Human counterpart : NP_001002031.1
+____________________________________
+NP_001002031.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 5
+Human counterpart : NP_005167.2
+____________________________________
+XP_005636813.1 -> cfa
+NP_080744.1 -> mmu
+NP_598240.1 -> rno
+NP_571836.1 -> dre
+NP_001247382.1 -> dme
+XP_001688294.1 -> aga
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : aga, dme, dre, rno, mmu, cfa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, ptr, xtr, gga, bta, hsa, 
+Present in Groups : Group4, Group6, Group8, Group9, 
+Not present in Groups : Group1, Group2, Group3, Group5, Group7, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 6
+Human counterpart : NP_001002258.1
+____________________________________
+NP_001002258.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 7
+Human counterpart : NP_001680.1
+____________________________________
+XP_535971.2 -> cfa
+NP_001029864.1 -> bta
+NP_001264784.1 -> gga
+NP_957470.1 -> dre
+XP_003710979.1 -> mgr
+NP_001005087.1 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, mgr, dre, gga, bta, cfa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, cel, aga, dme, mcc, ptr, rno, mmu, hsa, 
+Present in Groups : Group1, Group4, Group5, Group7, Group8, Group10, 
+Not present in Groups : Group2, Group3, Group6, Group9, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 8
+Human counterpart : NP_008817.1
+____________________________________
+NP_008817.1 -> hsa
+XP_003317076.1 -> ptr
+NP_001028073.1 -> mcc
+
+Total homolog = 3
+Total distinct organism = 3
+Protein present in : mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, Group3, 
+Not present in Groups : Group1, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 9
+Human counterpart : NP_001003785.1
+____________________________________
+NP_001003785.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 10
+Human counterpart : NP_006347.1
+____________________________________
+XP_001138674.1 -> ptr
+XP_005641417.1 -> cfa
+NP_777149.1 -> bta
+NP_082138.1 -> mmu
+NP_062256.1 -> rno
+NP_956996.1 -> dre
+XP_309516.3 -> aga
+NP_001011021.1 -> xtr
+
+Total homolog = 8
+Total distinct organism = 8
+Protein present in : xtr, aga, dre, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, dme, mcc, gga, hsa, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group5, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 11
+Human counterpart : NP_009031.1
+____________________________________
+NP_009031.1 -> hsa
+XP_517045.2 -> ptr
+
+Total homolog = 2
+Total distinct organism = 2
+Protein present in : ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 12
+Human counterpart : NP_001003696.1
+____________________________________
+NP_001003696.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 13
+Human counterpart : NP_001003701.1
+____________________________________
+XP_001158570.1 -> ptr
+XP_003434019.1 -> cfa
+NP_777142.1 -> bta
+NP_446054.1 -> rno
+XP_001231639.1 -> gga
+NP_998472.1 -> dre
+NP_001017042.1 -> xtr
+
+Total homolog = 7
+Total distinct organism = 7
+Protein present in : xtr, dre, gga, rno, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, mcc, mmu, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group3, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 14
+Human counterpart : NP_006467.4
+____________________________________
+NP_006467.4 -> hsa
+XP_001161526.1 -> ptr
+XP_003434622.1 -> cfa
+NP_001019721.4 -> bta
+NP_038823.2 -> mmu
+NP_997681.1 -> rno
+XP_004948139.1 -> gga
+NP_956051.1 -> dre
+NP_001036353.1 -> dme
+XP_310207.3 -> aga
+NP_001163975.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 11
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group10, Group11, 
+Other Homolog Not in search:
+XP_005627147.1 -> cfa -> NONE
+
+
+____________________________________
+
+Protein No. 15
+Human counterpart : NP_001001935.1
+____________________________________
+NP_001001935.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 16
+Human counterpart : NP_004037.1
+____________________________________
+NP_001129208.1 -> ptr
+NP_777109.1 -> bta
+NP_031531.1 -> mmu
+NP_075581.1 -> rno
+NP_001070823.1 -> dre
+NP_726243.1 -> dme
+XP_314018.2 -> aga
+NP_009453.2 -> sce
+XP_454248.1 -> kla
+NP_986395.1 -> ago
+NP_594919.1 -> spo
+XP_003712965.1 -> mgr
+XP_965645.1 -> ncr
+NP_178788.1 -> ath
+NP_085571.2 -> ath
+NP_001025610.1 -> xtr
+
+Total homolog = 16
+Total distinct organism = 15
+Protein present in : xtr, ath, ncr, mgr, spo, ago, kla, sce, aga, dme, dre, rno, mmu, bta, ptr, 
+Protein not present in : osa, cel, cfa, mcc, gga, hsa, 
+Present in Groups : Group1, Group2, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, Group4, Group5, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 17
+Human counterpart : NP_001677.2
+____________________________________
+NP_001677.2 -> hsa
+XP_001091520.1 -> mcc
+XP_531639.2 -> cfa
+NP_786990.1 -> bta
+NP_058054.2 -> mmu
+NP_599191.1 -> rno
+NP_001026562.2 -> gga
+NP_001019600.2 -> dre
+NP_001259081.1 -> dme
+XP_320446.2 -> aga
+XP_320423.4 -> aga
+NP_498111.2 -> cel
+NP_012655.3 -> sce
+XP_453538.1 -> kla
+NP_983117.2 -> ago
+NP_593151.1 -> spo
+XP_003716804.1 -> mgr
+XP_963253.2 -> ncr
+NP_680155.1 -> ath
+NP_568203.2 -> ath
+NP_568204.1 -> ath
+NP_001056261.1 -> osa
+NP_001043900.1 -> osa
+NP_001001256.1 -> xtr
+
+Total homolog = 24
+Total distinct organism = 20
+Protein present in : xtr, osa, ath, ncr, mgr, spo, ago, kla, sce, cel, aga, dme, dre, gga, rno, mmu, bta, cfa, mcc, hsa, 
+Protein not present in : ptr, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 18
+Human counterpart : NP_001001975.1
+____________________________________
+NP_001001975.1 -> hsa
+XP_005633207.1 -> cfa
+NP_788843.1 -> bta
+NP_079589.2 -> mmu
+NP_620806.1 -> rno
+XP_001234760.3 -> gga
+NP_956262.1 -> dre
+XP_317657.4 -> aga
+NP_495286.1 -> cel
+NP_010280.1 -> sce
+XP_455744.1 -> kla
+NP_984853.1 -> ago
+NP_596259.2 -> spo
+XP_003710657.1 -> mgr
+XP_957271.2 -> ncr
+NP_199514.1 -> ath
+NP_001059694.1 -> osa
+NP_001016516.1 -> xtr
+
+Total homolog = 18
+Total distinct organism = 18
+Protein present in : xtr, osa, ath, ncr, mgr, spo, ago, kla, sce, cel, aga, dre, gga, rno, mmu, bta, cfa, hsa, 
+Protein not present in : dme, mcc, ptr, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 19
+Human counterpart : NP_001001973.1
+____________________________________
+NP_001001973.1 -> hsa
+XP_003312499.1 -> ptr
+XP_001108136.2 -> mcc
+XP_005617216.1 -> cfa
+NP_001068604.1 -> bta
+NP_446277.1 -> rno
+NP_001265025.1 -> gga
+NP_956335.1 -> dre
+NP_524550.1 -> dme
+XP_317504.3 -> aga
+NP_009595.1 -> sce
+XP_451839.1 -> kla
+NP_983228.2 -> ago
+NP_595430.1 -> spo
+XP_003710014.1 -> mgr
+XP_958891.1 -> ncr
+NP_180863.1 -> ath
+NP_001064339.1 -> osa
+NP_001016407.1 -> xtr
+
+Total homolog = 19
+Total distinct organism = 19
+Protein present in : xtr, osa, ath, ncr, mgr, spo, ago, kla, sce, aga, dme, dre, gga, rno, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : cel, mmu, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 20
+Human counterpart : NP_001003713.1
+____________________________________
+NP_001003713.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 21
+Human counterpart : NP_004880.1
+____________________________________
+XP_001102691.1 -> mcc
+XP_001089360.1 -> mcc
+XP_001110014.1 -> mcc
+XP_005629393.1 -> cfa
+NP_001107191.1 -> bta
+NP_065607.1 -> mmu
+NP_001258046.1 -> rno
+NP_001244129.1 -> gga
+NP_001017095.1 -> xtr
+
+Total homolog = 9
+Total distinct organism = 7
+Protein present in : xtr, gga, rno, mmu, bta, cfa, mcc, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, ptr, hsa, 
+Present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, 
+Not present in Groups : Group2, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+XP_001106256.1 -> mcc -> NONE
+XP_001088523.1 -> mcc -> NONE
+XP_001113489.1 -> mcc -> NONE
+XP_001098186.1 -> mcc -> NONE
+XP_005626558.1 -> cfa -> NONE
+XP_003433813.1 -> cfa -> NONE
+XP_005616142.1 -> cfa -> NONE
+XP_005617357.1 -> cfa -> NONE
+XP_005638047.1 -> cfa -> NONE
+
+
+____________________________________
+
+Protein No. 22
+Human counterpart : NP_001688.1
+____________________________________
+NP_001688.1 -> hsa
+XP_005638919.1 -> cfa
+XP_005638938.1 -> cfa
+NP_776669.1 -> bta
+NP_613063.1 -> mmu
+NP_620238.1 -> rno
+XP_416717.4 -> gga
+NP_001003843.1 -> dre
+NP_524358.2 -> dme
+XP_313357.3 -> aga
+NP_010584.1 -> sce
+XP_452662.1 -> kla
+NP_982477.1 -> ago
+NP_588505.1 -> spo
+XP_003716842.1 -> mgr
+XP_956517.1 -> ncr
+NP_001058199.2 -> osa
+NP_001037877.1 -> xtr
+
+Total homolog = 18
+Total distinct organism = 17
+Protein present in : xtr, osa, ncr, mgr, spo, ago, kla, sce, aga, dme, dre, gga, rno, mmu, bta, cfa, hsa, 
+Protein not present in : ath, cel, mcc, ptr, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 23
+Human counterpart : NP_001030588.1
+____________________________________
+NP_001030588.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 24
+Human counterpart : NP_002992.1
+____________________________________
+NP_787008.1 -> bta
+NP_079597.2 -> mmu
+NP_001005534.1 -> rno
+NP_001003523.1 -> dre
+XP_311387.3 -> aga
+NP_001136371.1 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, aga, dre, rno, mmu, bta, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, dme, cfa, mcc, ptr, gga, hsa, 
+Present in Groups : Group1, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group2, Group3, Group4, Group5, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 25
+Human counterpart : NP_004366.1
+____________________________________
+XP_453373.1 -> kla
+NP_983508.1 -> ago
+NP_593279.2 -> spo
+XP_001713114.1 -> spo
+XP_003717808.1 -> mgr
+NP_171743.1 -> ath
+NP_001051089.2 -> osa
+XP_002934512.1 -> xtr
+
+Total homolog = 8
+Total distinct organism = 7
+Protein present in : xtr, osa, ath, mgr, spo, ago, kla, 
+Protein not present in : sce, ncr, cel, aga, dme, dre, cfa, mcc, ptr, gga, rno, mmu, bta, hsa, 
+Present in Groups : Group7, Group10, Group11, 
+Not present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group8, Group9, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 26
+Human counterpart : NP_004367.2
+____________________________________
+NP_004367.2 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 27
+Human counterpart : NP_510870.1
+____________________________________
+XP_001149196.2 -> ptr
+XP_534986.2 -> cfa
+NP_001070329.1 -> bta
+NP_659123.2 -> mmu
+NP_001028871.2 -> rno
+NP_001107598.1 -> gga
+NP_611855.1 -> dme
+XP_321341.3 -> aga
+NP_496402.1 -> cel
+
+Total homolog = 9
+Total distinct organism = 9
+Protein present in : cel, aga, dme, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, dre, mcc, xtr, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group9, 
+Not present in Groups : Group3, Group7, Group8, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 28
+Human counterpart : NP_005685.1
+____________________________________
+NP_005685.1 -> hsa
+NP_001239469.1 -> ptr
+
+Total homolog = 2
+Total distinct organism = 2
+Protein present in : ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 29
+Human counterpart : NP_115998.2
+____________________________________
+NP_445924.1 -> rno
+NP_001016945.1 -> xtr
+
+Total homolog = 2
+Total distinct organism = 2
+Protein present in : xtr, rno, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, gga, mmu, bta, hsa, 
+Present in Groups : Group6, Group7, 
+Not present in Groups : Group1, Group2, Group3, Group4, Group5, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 30
+Human counterpart : NP_004246.2
+____________________________________
+NP_004246.2 -> hsa
+NP_001112385.1 -> ptr
+NP_001035369.1 -> mcc
+NP_001002891.1 -> bta
+NP_031773.2 -> mmu
+NP_665726.1 -> rno
+NP_001019574.1 -> dre
+NP_001262488.1 -> dme
+XP_309490.3 -> aga
+NP_499681.1 -> cel
+NP_001017049.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 11
+Protein present in : xtr, cel, aga, dme, dre, rno, mmu, bta, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cfa, gga, 
+Present in Groups : Group1, Group2, Group3, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group4, Group5, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 31
+Human counterpart : NP_001853.2
+____________________________________
+NP_001853.2 -> hsa
+XP_001154903.2 -> ptr
+XP_001100566.1 -> mcc
+XP_001098868.1 -> mcc
+XP_001099921.1 -> mcc
+NP_001137602.1 -> cfa
+NP_001029218.1 -> bta
+NP_446038.1 -> rno
+
+Total homolog = 8
+Total distinct organism = 6
+Protein present in : rno, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, xtr, gga, mmu, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, 
+Not present in Groups : Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 32
+Human counterpart : NP_004365.1
+____________________________________
+NP_004365.1 -> hsa
+XP_001097441.2 -> mcc
+
+Total homolog = 2
+Total distinct organism = 2
+Protein present in : mcc, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, Group3, 
+Not present in Groups : Group1, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+XP_006516484.1 -> mmu -> NONE
+
+
+____________________________________
+
+Protein No. 33
+Human counterpart : NP_001857.1
+____________________________________
+NP_001857.1 -> hsa
+XP_003954072.1 -> ptr
+NP_786989.3 -> bta
+NP_079655.1 -> mmu
+NP_877971.2 -> rno
+NP_001165069.1 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, rno, mmu, bta, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, gga, 
+Present in Groups : Group1, Group2, Group6, Group7, 
+Not present in Groups : Group3, Group4, Group5, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 34
+Human counterpart : NP_001858.1
+____________________________________
+NP_001858.1 -> hsa
+NP_001073391.1 -> ptr
+
+Total homolog = 2
+Total distinct organism = 2
+Protein present in : ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+XP_002804747.1 -> mcc -> NONE
+XP_005638433.1 -> cfa -> NONE
+
+
+____________________________________
+
+Protein No. 35
+Human counterpart : NP_004709.2
+____________________________________
+NP_004709.2 -> hsa
+XP_532946.1 -> cfa
+NP_001029867.1 -> bta
+NP_001153001.1 -> mmu
+NP_001100174.1 -> rno
+NP_001264516.1 -> gga
+NP_956268.1 -> dre
+NP_001027501.1 -> xtr
+
+Total homolog = 8
+Total distinct organism = 8
+Protein present in : xtr, dre, gga, rno, mmu, bta, cfa, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, mcc, ptr, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group3, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 36
+Human counterpart : NP_004065.1
+____________________________________
+NP_004065.1 -> hsa
+NP_001073394.1 -> ptr
+NP_001239299.1 -> cfa
+NP_776449.2 -> bta
+NP_031776.1 -> mmu
+NP_599172.1 -> rno
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, xtr, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, 
+Not present in Groups : Group3, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 37
+Human counterpart : NP_892016.1
+____________________________________
+NP_892016.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 38
+Human counterpart : NP_004364.2
+____________________________________
+NP_004364.2 -> hsa
+XP_003339284.1 -> ptr
+XP_002808040.1 -> mcc
+XP_534704.3 -> cfa
+NP_031774.1 -> mmu
+NP_036946.1 -> rno
+NP_001264438.1 -> gga
+NP_001005592.1 -> dre
+XP_316821.4 -> aga
+NP_001016543.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, aga, dre, gga, rno, mmu, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, dme, bta, 
+Present in Groups : Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group1, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 39
+Human counterpart : NP_005196.1
+____________________________________
+NP_005196.1 -> hsa
+XP_001158801.1 -> ptr
+XP_536907.1 -> cfa
+NP_776947.1 -> bta
+NP_034073.2 -> mmu
+NP_036944.2 -> rno
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, xtr, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, 
+Not present in Groups : Group3, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 40
+Human counterpart : NP_001854.1
+____________________________________
+NP_001854.1 -> hsa
+NP_001035371.1 -> mcc
+XP_855469.1 -> cfa
+NP_788848.1 -> bta
+NP_079904.1 -> mmu
+NP_001138745.1 -> rno
+NP_001002695.1 -> dre
+XP_003435734.1 -> aga
+NP_013139.1 -> sce
+XP_455857.1 -> kla
+NP_984336.1 -> ago
+NP_588322.2 -> spo
+XP_003717823.1 -> mgr
+XP_963513.1 -> ncr
+NP_173661.1 -> ath
+NP_001005102.1 -> xtr
+
+Total homolog = 16
+Total distinct organism = 16
+Protein present in : xtr, ath, ncr, mgr, spo, ago, kla, sce, aga, dre, rno, mmu, bta, cfa, mcc, hsa, 
+Protein not present in : osa, cel, dme, ptr, gga, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group5, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 41
+Human counterpart : NP_653214.2
+____________________________________
+NP_653214.2 -> hsa
+NP_001012702.1 -> bta
+NP_001034174.1 -> rno
+
+Total homolog = 3
+Total distinct organism = 3
+Protein present in : rno, bta, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, mmu, 
+Present in Groups : Group1, Group2, Group6, 
+Not present in Groups : Group3, Group4, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 42
+Human counterpart : NP_001855.1
+____________________________________
+NP_001855.1 -> hsa
+XP_003316382.1 -> ptr
+NP_001035368.1 -> mcc
+NP_788847.1 -> bta
+NP_034074.1 -> mmu
+
+Total homolog = 5
+Total distinct organism = 5
+Protein present in : mmu, bta, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, xtr, gga, rno, 
+Present in Groups : Group1, Group2, Group3, Group6, 
+Not present in Groups : Group4, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 43
+Human counterpart : NP_001856.2
+____________________________________
+NP_001856.2 -> hsa
+NP_001230778.1 -> ptr
+XP_001097539.2 -> mcc
+XP_853871.1 -> cfa
+NP_787001.1 -> bta
+NP_034075.2 -> mmu
+NP_001185711.1 -> gga
+NP_001027900.1 -> dre
+NP_001106199.1 -> xtr
+
+Total homolog = 9
+Total distinct organism = 9
+Protein present in : xtr, dre, gga, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, rno, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 44
+Human counterpart : NP_570972.2
+____________________________________
+NP_570972.2 -> hsa
+XP_005628209.1 -> cfa
+
+Total homolog = 2
+Total distinct organism = 2
+Protein present in : cfa, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, Group4, 
+Not present in Groups : Group1, Group3, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 45
+Human counterpart : NP_001907.2
+____________________________________
+NP_001907.2 -> hsa
+XP_528263.3 -> ptr
+XP_532351.2 -> cfa
+NP_001033179.1 -> bta
+NP_079843.1 -> mmu
+NP_001264123.1 -> rno
+NP_001032470.1 -> dre
+NP_001246637.1 -> dme
+XP_001688099.1 -> aga
+NP_492207.1 -> cel
+NP_014708.1 -> sce
+XP_455824.1 -> kla
+NP_984304.2 -> ago
+NP_595846.1 -> spo
+XP_003710661.1 -> mgr
+XP_963756.1 -> ncr
+NP_189360.1 -> ath
+NP_001055136.1 -> osa
+NP_001045322.1 -> osa
+NP_989234.1 -> xtr
+
+Total homolog = 20
+Total distinct organism = 19
+Protein present in : xtr, osa, ath, ncr, mgr, spo, ago, kla, sce, cel, aga, dme, dre, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : mcc, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, Group5, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 46
+Human counterpart : NP_004159.2
+____________________________________
+XP_003310656.1 -> ptr
+XP_001094170.2 -> mcc
+XP_535807.4 -> cfa
+NP_776603.1 -> bta
+NP_075770.1 -> mmu
+NP_569112.1 -> rno
+NP_001264327.1 -> gga
+NP_957204.1 -> dre
+XP_311518.4 -> aga
+NP_509446.1 -> cel
+NP_492798.1 -> cel
+NP_012774.1 -> sce
+XP_453260.1 -> kla
+NP_983455.2 -> ago
+NP_594319.1 -> spo
+XP_003718957.1 -> mgr
+XP_001728186.1 -> ncr
+NP_201477.1 -> ath
+NP_001058845.1 -> osa
+NP_001015989.1 -> xtr
+
+Total homolog = 20
+Total distinct organism = 19
+Protein present in : xtr, osa, ath, ncr, mgr, spo, ago, kla, sce, cel, aga, dre, gga, rno, mmu, bta, cfa, mcc, ptr, 
+Protein not present in : dme, hsa, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 47
+Human counterpart : NP_002991.2
+____________________________________
+NP_002991.2 -> hsa
+NP_001239146.1 -> cfa
+NP_001035573.1 -> bta
+NP_075863.2 -> mmu
+NP_001094009.1 -> rno
+NP_001092210.1 -> dre
+NP_477101.1 -> dme
+XP_308512.4 -> aga
+NP_495992.1 -> cel
+NP_013059.1 -> sce
+XP_453977.1 -> kla
+NP_983339.1 -> ago
+NP_593530.2 -> spo
+XP_003718958.1 -> mgr
+XP_965152.1 -> ncr
+NP_001118718.1 -> ath
+NP_198881.1 -> ath
+NP_001060876.1 -> osa
+NP_001120000.1 -> xtr
+
+Total homolog = 19
+Total distinct organism = 18
+Protein present in : xtr, osa, ath, ncr, mgr, spo, ago, kla, sce, cel, aga, dme, dre, rno, mmu, bta, cfa, hsa, 
+Protein not present in : mcc, ptr, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, Group5, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 48
+Human counterpart : NP_001263432.1
+____________________________________
+NP_001263432.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 49
+Human counterpart : NP_002993.1
+____________________________________
+NP_776604.1 -> bta
+NP_080124.1 -> mmu
+NP_942083.1 -> rno
+NP_001006321.1 -> gga
+NP_001004004.1 -> dre
+NP_989357.1 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, dre, gga, rno, mmu, bta, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, cfa, mcc, ptr, hsa, 
+Present in Groups : Group1, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group2, Group3, Group4, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 50
+Human counterpart : NP_008834.3
+____________________________________
+NP_008834.3 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 51
+Human counterpart : NP_789845.1
+____________________________________
+XP_001082969.2 -> mcc
+XP_535679.3 -> cfa
+NP_001069864.1 -> bta
+NP_001129343.1 -> rno
+NP_957027.1 -> dre
+NP_001017130.1 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, dre, rno, bta, cfa, mcc, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, ptr, gga, mmu, hsa, 
+Present in Groups : Group1, Group3, Group4, Group6, Group7, Group8, 
+Not present in Groups : Group2, Group5, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 52
+Human counterpart : NP_004532.1
+____________________________________
+NP_004532.1 -> hsa
+XP_003317703.1 -> ptr
+XP_005641801.1 -> cfa
+NP_786988.1 -> bta
+NP_062316.1 -> mmu
+NP_001102283.2 -> rno
+NP_001165138.1 -> xtr
+
+Total homolog = 7
+Total distinct organism = 7
+Protein present in : xtr, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, 
+Not present in Groups : Group3, Group5, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+XP_001099376.2 -> mcc -> NONE
+XP_005630839.1 -> cfa -> NONE
+
+
+____________________________________
+
+Protein No. 53
+Human counterpart : NP_001171941.1
+____________________________________
+NP_001171941.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 54
+Human counterpart : NP_002479.1
+____________________________________
+XP_535211.1 -> cfa
+NP_787009.1 -> bta
+NP_035015.2 -> mmu
+NP_001099623.1 -> rno
+NP_001019591.1 -> dre
+NP_652341.1 -> dme
+XP_314269.3 -> aga
+XP_307497.3 -> aga
+NP_199600.1 -> ath
+NP_001052435.2 -> osa
+NP_001096247.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 10
+Protein present in : xtr, osa, ath, aga, dme, dre, rno, mmu, bta, cfa, 
+Protein not present in : ago, spo, kla, sce, ncr, mgr, cel, mcc, ptr, gga, hsa, 
+Present in Groups : Group1, Group4, Group6, Group7, Group8, Group9, Group11, 
+Not present in Groups : Group2, Group3, Group5, Group10, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 55
+Human counterpart : NP_004533.1
+____________________________________
+NP_004533.1 -> hsa
+NP_001238904.1 -> ptr
+XP_001098699.1 -> mcc
+NP_788832.1 -> bta
+NP_079624.1 -> mmu
+XP_001076462.2 -> rno
+NP_001003516.2 -> dre
+NP_001017047.1 -> xtr
+
+Total homolog = 8
+Total distinct organism = 8
+Protein present in : xtr, dre, rno, mmu, bta, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, cfa, gga, 
+Present in Groups : Group1, Group2, Group3, Group6, Group7, Group8, 
+Not present in Groups : Group4, Group5, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 56
+Human counterpart : NP_002480.1
+____________________________________
+NP_002480.1 -> hsa
+NP_001073393.1 -> ptr
+NP_001030601.1 -> mcc
+XP_002804198.1 -> mcc
+XP_003639527.1 -> cfa
+NP_787014.1 -> bta
+NP_035016.1 -> mmu
+NP_001121156.1 -> rno
+NP_998190.1 -> dre
+NP_998582.1 -> dre
+NP_001017038.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 9
+Protein present in : xtr, dre, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, gga, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, Group7, Group8, 
+Not present in Groups : Group5, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 57
+Human counterpart : NP_001269348.1
+____________________________________
+NP_001269348.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 58
+Human counterpart : NP_004991.1
+____________________________________
+NP_001065265.1 -> ptr
+NP_787023.1 -> bta
+NP_080890.1 -> mmu
+NP_037117.1 -> rno
+NP_001091106.1 -> gga
+NP_001013474.1 -> dre
+NP_648409.1 -> dme
+XP_315631.3 -> aga
+NP_501688.1 -> cel
+NP_001039265.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, cel, aga, dme, dre, gga, rno, mmu, bta, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cfa, mcc, hsa, 
+Present in Groups : Group1, Group2, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group4, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 59
+Human counterpart : NP_002481.2
+____________________________________
+NP_002481.2 -> hsa
+NP_001065259.1 -> ptr
+XP_001106675.1 -> mcc
+XP_005625856.1 -> cfa
+NP_786985.1 -> bta
+NP_080263.1 -> mmu
+NP_001123977.1 -> rno
+NP_001265037.1 -> gga
+NP_957262.1 -> dre
+NP_001260877.1 -> dme
+XP_306101.3 -> aga
+XP_314225.5 -> aga
+NP_001017354.1 -> xtr
+
+Total homolog = 13
+Total distinct organism = 12
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 60
+Human counterpart : NP_004992.2
+____________________________________
+NP_004992.2 -> hsa
+NP_001073395.1 -> ptr
+XP_002801102.1 -> mcc
+XP_533926.1 -> cfa
+NP_788831.1 -> bta
+NP_075691.1 -> mmu
+NP_001100242.2 -> rno
+XP_004948729.1 -> gga
+NP_001003436.1 -> dre
+
+Total homolog = 9
+Total distinct organism = 9
+Protein present in : dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, xtr, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group8, 
+Not present in Groups : Group7, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 61
+Human counterpart : NP_055037.1
+____________________________________
+NP_055037.1 -> hsa
+NP_001065268.1 -> ptr
+XP_001089493.1 -> mcc
+XP_537861.1 -> cfa
+NP_787020.1 -> bta
+NP_080979.1 -> mmu
+NP_001041327.1 -> rno
+NP_001264584.1 -> gga
+NP_957021.1 -> dre
+NP_001163296.1 -> dme
+XP_308839.2 -> aga
+NP_497574.2 -> cel
+NP_001096491.1 -> xtr
+
+Total homolog = 13
+Total distinct organism = 13
+Protein present in : xtr, cel, aga, dme, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 62
+Human counterpart : NP_004993.1
+____________________________________
+NP_004993.1 -> hsa
+NP_001073383.1 -> ptr
+XP_001118102.2 -> mcc
+XP_534915.3 -> cfa
+NP_991386.1 -> bta
+NP_079634.2 -> mmu
+NP_001094222.1 -> rno
+NP_001006281.1 -> gga
+NP_001013477.1 -> dre
+NP_001262116.1 -> dme
+XP_318516.3 -> aga
+NP_497675.1 -> cel
+XP_003716394.1 -> mgr
+XP_959794.2 -> ncr
+NP_565469.1 -> ath
+NP_001048516.1 -> osa
+NP_001011432.1 -> xtr
+
+Total homolog = 17
+Total distinct organism = 17
+Protein present in : xtr, osa, ath, ncr, mgr, cel, aga, dme, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 63
+Human counterpart : NP_004535.1
+____________________________________
+NP_004535.1 -> hsa
+NP_001065273.1 -> ptr
+XP_001087784.2 -> mcc
+XP_005635987.1 -> cfa
+NP_788828.1 -> bta
+NP_077159.1 -> mmu
+NP_872612.1 -> rno
+NP_955789.2 -> rno
+NP_001026418.1 -> gga
+NP_955872.1 -> dre
+NP_001262821.1 -> dme
+XP_309517.4 -> aga
+NP_001076817.1 -> xtr
+
+Total homolog = 13
+Total distinct organism = 12
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 64
+Human counterpart : NP_001180304.1
+____________________________________
+NP_001180304.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 65
+Human counterpart : NP_783313.1
+____________________________________
+NP_001153846.1 -> ptr
+XP_001100352.1 -> mcc
+XP_533939.2 -> cfa
+NP_783649.1 -> bta
+NP_081520.1 -> mmu
+NP_997682.1 -> rno
+XP_429731.4 -> gga
+NP_956819.1 -> dre
+NP_001123858.1 -> xtr
+
+Total homolog = 9
+Total distinct organism = 9
+Protein present in : xtr, dre, gga, rno, mmu, bta, cfa, mcc, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, hsa, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 66
+Human counterpart : NP_001245267.1
+____________________________________
+NP_001245267.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 67
+Human counterpart : NP_061326.1
+____________________________________
+NP_001065252.1 -> ptr
+XP_532652.1 -> cfa
+NP_776731.1 -> bta
+NP_079827.2 -> mmu
+NP_001100251.2 -> rno
+NP_001171687.1 -> gga
+NP_001028275.1 -> dre
+NP_001137770.1 -> dme
+XP_314752.3 -> aga
+NP_001011121.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group10, Group11, 
+Other Homolog Not in search:
+NP_500247.2 -> cel -> NONE
+
+
+____________________________________
+
+Protein No. 68
+Human counterpart : NP_057049.5
+____________________________________
+NP_057049.5 -> hsa
+NP_001065256.1 -> ptr
+XP_002801516.1 -> mcc
+XP_005632708.1 -> cfa
+NP_788845.1 -> bta
+NP_075801.1 -> mmu
+NP_001264151.1 -> rno
+NP_957008.1 -> dre
+NP_565761.1 -> ath
+NP_171957.2 -> ath
+NP_001049239.1 -> osa
+NP_988900.1 -> xtr
+
+Total homolog = 12
+Total distinct organism = 11
+Protein present in : xtr, osa, ath, dre, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, ncr, mgr, cel, aga, dme, gga, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, Group7, Group8, Group11, 
+Not present in Groups : Group5, Group9, Group10, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 69
+Human counterpart : NP_004536.2
+____________________________________
+NP_004536.2 -> hsa
+NP_001070250.2 -> ptr
+XP_005621230.1 -> cfa
+NP_787003.1 -> bta
+XP_006516504.1 -> mmu
+
+Total homolog = 5
+Total distinct organism = 5
+Protein present in : mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, xtr, gga, rno, 
+Present in Groups : Group1, Group2, Group4, Group6, 
+Not present in Groups : Group3, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 70
+Human counterpart : NP_004537.1
+____________________________________
+NP_004537.1 -> hsa
+NP_001065266.1 -> ptr
+XP_001082389.1 -> mcc
+XP_003432113.1 -> cfa
+NP_787022.1 -> bta
+NP_080888.1 -> mmu
+NP_001102094.2 -> rno
+NP_001264825.1 -> gga
+NP_001161298.1 -> dre
+NP_001106529.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 71
+Human counterpart : NP_001244031.1
+____________________________________
+NP_001244031.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 72
+Human counterpart : NP_002482.1
+____________________________________
+NP_001070251.1 -> ptr
+XP_001094984.1 -> mcc
+XP_001113376.1 -> mcc
+XP_005640581.1 -> cfa
+NP_788840.1 -> bta
+NP_079873.1 -> mmu
+NP_001100382.1 -> rno
+NP_001017212.1 -> xtr
+
+Total homolog = 8
+Total distinct organism = 7
+Protein present in : xtr, rno, mmu, bta, cfa, mcc, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, gga, hsa, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, Group7, 
+Not present in Groups : Group5, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 73
+Human counterpart : NP_001161803.1
+____________________________________
+NP_001161803.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 74
+Human counterpart : NP_004538.2
+____________________________________
+NP_001065260.1 -> ptr
+XP_535753.2 -> cfa
+NP_787016.1 -> bta
+NP_080886.1 -> mmu
+XP_001476621.1 -> mmu
+XP_001478493.1 -> mmu
+NP_001032415.1 -> rno
+XP_001233271.1 -> gga
+NP_998198.1 -> dre
+NP_001017036.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 8
+Protein present in : xtr, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group3, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 75
+Human counterpart : NP_001186886.1
+____________________________________
+NP_001186886.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 76
+Human counterpart : NP_002483.1
+____________________________________
+NP_001065274.1 -> ptr
+XP_005615552.1 -> cfa
+NP_788829.1 -> bta
+NP_079592.2 -> mmu
+NP_001099896.1 -> rno
+NP_001006553.1 -> gga
+NP_001099066.1 -> dre
+NP_001261742.1 -> dme
+XP_308524.4 -> aga
+NP_001017303.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 77
+Human counterpart : NP_002484.1
+____________________________________
+NP_001233137.1 -> ptr
+NP_001239210.1 -> cfa
+NP_786981.1 -> bta
+NP_001028477.1 -> mmu
+NP_001100116.1 -> rno
+NP_001264454.1 -> gga
+NP_957102.1 -> dre
+NP_001016490.1 -> xtr
+
+Total homolog = 8
+Total distinct organism = 8
+Protein present in : xtr, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, 
+Not present in Groups : Group3, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 78
+Human counterpart : NP_004137.2
+____________________________________
+NP_004137.2 -> hsa
+NP_001065270.1 -> ptr
+XP_533892.2 -> cfa
+NP_788833.1 -> bta
+NP_080119.1 -> mmu
+NP_001101912.1 -> rno
+NP_957142.1 -> dre
+XP_308300.3 -> aga
+NP_001017236.1 -> xtr
+
+Total homolog = 9
+Total distinct organism = 9
+Protein present in : xtr, aga, dre, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, dme, mcc, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group5, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 79
+Human counterpart : NP_004995.1
+____________________________________
+NP_001138336.1 -> ptr
+XP_005637678.1 -> cfa
+NP_777092.1 -> bta
+NP_080337.1 -> mmu
+NP_001099830.1 -> rno
+NP_001006502.1 -> gga
+NP_957149.1 -> dre
+NP_001027048.1 -> dme
+XP_321035.4 -> aga
+XP_002936399.2 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 80
+Human counterpart : NP_004996.1
+____________________________________
+NP_001065267.1 -> ptr
+XP_001100168.2 -> mcc
+XP_005627982.1 -> cfa
+NP_786977.1 -> bta
+NP_075661.1 -> mmu
+NP_001120766.1 -> rno
+XP_418444.3 -> gga
+NP_001017880.1 -> dre
+XP_318983.3 -> aga
+NP_498396.1 -> cel
+NP_001072252.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 11
+Protein present in : xtr, cel, aga, dre, gga, rno, mmu, bta, cfa, mcc, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, dme, hsa, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 81
+Human counterpart : NP_004539.1
+____________________________________
+NP_004539.1 -> hsa
+NP_001065292.1 -> ptr
+XP_537012.1 -> cfa
+NP_787012.1 -> bta
+NP_080960.1 -> mmu
+NP_001102913.1 -> rno
+XP_414844.1 -> gga
+NP_957024.1 -> dre
+XP_317733.3 -> aga
+NP_492752.1 -> cel
+NP_001017250.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 11
+Protein present in : xtr, cel, aga, dre, gga, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, dme, mcc, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 82
+Human counterpart : NP_001129470.1
+____________________________________
+NP_001129470.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 83
+Human counterpart : NP_061929.2
+____________________________________
+NP_001065278.1 -> ptr
+XP_001091196.1 -> mcc
+XP_538012.1 -> cfa
+NP_001028792.1 -> bta
+NP_062308.2 -> mmu
+NP_001100226.1 -> rno
+NP_001038446.1 -> dre
+
+Total homolog = 7
+Total distinct organism = 7
+Protein present in : dre, rno, mmu, bta, cfa, mcc, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, xtr, gga, hsa, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, Group8, 
+Not present in Groups : Group5, Group7, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 84
+Human counterpart : NP_001171915.1
+____________________________________
+NP_001171915.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 85
+Human counterpart : NP_002485.1
+____________________________________
+XP_001087956.2 -> mcc
+XP_005631837.1 -> cfa
+NP_776989.1 -> bta
+NP_079799.1 -> mmu
+XP_003749323.2 -> rno
+
+Total homolog = 5
+Total distinct organism = 5
+Protein present in : rno, mmu, bta, cfa, mcc, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, ptr, xtr, gga, hsa, 
+Present in Groups : Group1, Group3, Group4, Group6, 
+Not present in Groups : Group2, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 86
+Human counterpart : NP_001190983.1
+____________________________________
+NP_001190983.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 87
+Human counterpart : NP_004540.1
+____________________________________
+NP_001065249.1 -> ptr
+XP_533999.1 -> cfa
+NP_788815.1 -> bta
+NP_077182.1 -> mmu
+NP_001009290.1 -> rno
+NP_001013535.1 -> dre
+XP_002943399.1 -> xtr
+
+Total homolog = 7
+Total distinct organism = 7
+Protein present in : xtr, dre, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, mcc, gga, hsa, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, Group8, 
+Not present in Groups : Group3, Group5, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 88
+Human counterpart : NP_001186910.1
+____________________________________
+NP_001186910.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 89
+Human counterpart : NP_001186913.1
+____________________________________
+NP_001073384.1 -> ptr
+XP_001105816.2 -> mcc
+NP_777245.1 -> bta
+NP_001153510.1 -> mmu
+NP_001005550.1 -> rno
+NP_001006518.1 -> gga
+NP_001007766.1 -> dre
+NP_511083.1 -> dme
+XP_003435895.1 -> aga
+XP_003716838.1 -> mgr
+XP_957188.2 -> ncr
+NP_568550.1 -> ath
+NP_001051072.1 -> osa
+XP_002936432.2 -> xtr
+
+Total homolog = 14
+Total distinct organism = 14
+Protein present in : xtr, osa, ath, ncr, mgr, aga, dme, dre, gga, rno, mmu, bta, mcc, ptr, 
+Protein not present in : ago, spo, kla, sce, cel, cfa, hsa, 
+Present in Groups : Group1, Group2, Group3, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group4, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 90
+Human counterpart : NP_001159631.1
+____________________________________
+NP_001159631.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 91
+Human counterpart : NP_004541.1
+____________________________________
+NP_001065294.1 -> ptr
+XP_536138.2 -> cfa
+NP_001068605.1 -> bta
+NP_694704.1 -> mmu
+NP_001011907.1 -> rno
+XP_003643487.2 -> gga
+NP_001018481.2 -> dre
+NP_001259064.1 -> dme
+XP_308864.3 -> aga
+NP_498423.1 -> cel
+NP_510569.1 -> cel
+XP_003709930.1 -> mgr
+XP_965665.2 -> ncr
+NP_085511.1 -> ath
+NP_989363.1 -> xtr
+
+Total homolog = 15
+Total distinct organism = 14
+Protein present in : xtr, ath, ncr, mgr, cel, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 92
+Human counterpart : NP_004542.1
+____________________________________
+NP_004542.1 -> hsa
+NP_001073382.1 -> ptr
+XP_533185.2 -> cfa
+NP_777244.1 -> bta
+NP_080964.1 -> mmu
+NP_001099959.1 -> rno
+NP_001139804.1 -> gga
+NP_001017755.1 -> dre
+NP_647775.1 -> dme
+XP_316497.2 -> aga
+XP_003714259.1 -> mgr
+XP_957689.1 -> ncr
+NP_085479.1 -> ath
+NP_001003921.1 -> xtr
+
+Total homolog = 14
+Total distinct organism = 14
+Protein present in : xtr, ath, ncr, mgr, aga, dme, dre, gga, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, cel, mcc, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 93
+Human counterpart : NP_002486.1
+____________________________________
+NP_002486.1 -> hsa
+NP_001065262.1 -> ptr
+XP_001096347.1 -> mcc
+XP_005619385.1 -> cfa
+NP_786994.1 -> bta
+NP_035017.2 -> mmu
+NP_001020317.1 -> rno
+XP_424788.4 -> gga
+NP_001018512.1 -> dre
+NP_491359.2 -> cel
+NP_201560.1 -> ath
+NP_001060126.1 -> osa
+XP_002941075.1 -> xtr
+
+Total homolog = 13
+Total distinct organism = 13
+Protein present in : xtr, osa, ath, cel, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, ncr, mgr, aga, dme, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group11, 
+Not present in Groups : Group9, Group10, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 94
+Human counterpart : NP_001171908.1
+____________________________________
+NP_001171908.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 95
+Human counterpart : NP_004543.1
+____________________________________
+NP_001065257.1 -> ptr
+XP_001233575.1 -> gga
+NP_001018469.1 -> dre
+
+Total homolog = 3
+Total distinct organism = 3
+Protein present in : dre, gga, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, cfa, mcc, xtr, rno, mmu, bta, hsa, 
+Present in Groups : Group2, Group5, Group8, 
+Not present in Groups : Group1, Group3, Group4, Group6, Group7, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 96
+Human counterpart : NP_004544.1
+____________________________________
+NP_004544.1 -> hsa
+NP_001123606.1 -> ptr
+NP_787004.1 -> bta
+NP_035018.1 -> mmu
+XP_894909.2 -> mmu
+XP_001053017.1 -> rno
+XP_003748730.1 -> rno
+NP_001004651.1 -> dre
+XP_319821.3 -> aga
+NP_492007.1 -> cel
+XP_002941817.1 -> xtr
+
+Total homolog = 11
+Total distinct organism = 9
+Protein present in : xtr, cel, aga, dre, rno, mmu, bta, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, dme, cfa, mcc, gga, 
+Present in Groups : Group1, Group2, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group4, Group5, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 97
+Human counterpart : NP_077718.3
+____________________________________
+NP_077718.3 -> hsa
+NP_001103713.1 -> ptr
+XP_002808210.1 -> mcc
+XP_533960.2 -> cfa
+NP_001033111.1 -> bta
+NP_083548.1 -> mmu
+NP_001008525.1 -> rno
+XP_001234054.3 -> gga
+NP_001186841.1 -> dre
+XP_312939.4 -> aga
+NP_492445.1 -> cel
+XP_003715475.1 -> mgr
+XP_957592.1 -> ncr
+NP_196738.1 -> ath
+NP_001056143.2 -> osa
+NP_001072396.1 -> xtr
+
+Total homolog = 16
+Total distinct organism = 16
+Protein present in : xtr, osa, ath, ncr, mgr, cel, aga, dre, gga, rno, mmu, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, dme, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 98
+Human counterpart : NP_002487.1
+____________________________________
+NP_002487.1 -> hsa
+NP_001065248.1 -> ptr
+NP_001239224.1 -> cfa
+NP_001258372.1 -> mmu
+NP_001099792.1 -> rno
+XP_001232780.1 -> gga
+NP_998304.1 -> dre
+NP_001019573.1 -> dre
+NP_524719.1 -> dme
+XP_321378.5 -> aga
+NP_498595.1 -> cel
+XP_003716440.1 -> mgr
+XP_955936.1 -> ncr
+NP_178022.1 -> ath
+NP_173114.1 -> ath
+NP_001051420.1 -> osa
+NP_001006930.1 -> xtr
+
+Total homolog = 17
+Total distinct organism = 15
+Protein present in : xtr, osa, ath, ncr, mgr, cel, aga, dme, dre, gga, rno, mmu, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, mcc, bta, 
+Present in Groups : Group2, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group1, Group3, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 99
+Human counterpart : NP_001159574.1
+____________________________________
+NP_001159574.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 100
+Human counterpart : NP_009034.2
+____________________________________
+NP_001065293.1 -> ptr
+XP_851761.2 -> cfa
+NP_777233.1 -> bta
+NP_598427.1 -> mmu
+NP_001006973.1 -> rno
+NP_001026754.1 -> gga
+NP_001003747.1 -> dre
+XP_319184.4 -> aga
+NP_496376.1 -> cel
+XP_003718370.1 -> mgr
+XP_957659.1 -> ncr
+NP_196470.1 -> ath
+NP_001060455.1 -> osa
+NP_001011491.1 -> xtr
+
+Total homolog = 14
+Total distinct organism = 14
+Protein present in : xtr, osa, ath, ncr, mgr, cel, aga, dre, gga, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, dme, mcc, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : Group3, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 101
+Human counterpart : NP_066552.2
+____________________________________
+NP_066552.2 -> hsa
+NP_001065254.1 -> ptr
+XP_001108313.1 -> mcc
+XP_537328.2 -> cfa
+NP_776990.1 -> bta
+NP_112326.1 -> rno
+XP_424129.3 -> gga
+NP_957041.1 -> dre
+XP_308018.4 -> aga
+NP_506376.1 -> cel
+XP_003715530.1 -> mgr
+XP_961535.1 -> ncr
+NP_567244.1 -> ath
+NP_001056000.1 -> osa
+NP_001017166.1 -> xtr
+
+Total homolog = 15
+Total distinct organism = 15
+Protein present in : xtr, osa, ath, ncr, mgr, cel, aga, dre, gga, rno, bta, cfa, mcc, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, dme, mmu, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 102
+Human counterpart : NP_001001503.1
+____________________________________
+NP_001001503.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 103
+Human counterpart : NP_066553.3
+____________________________________
+XP_005639000.1 -> cfa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : cfa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, ptr, xtr, gga, rno, mmu, bta, hsa, 
+Present in Groups : Group4, 
+Not present in Groups : Group1, Group2, Group3, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+XP_001118555.1 -> mcc -> NONE
+
+
+____________________________________
+
+Protein No. 104
+Human counterpart : NP_006821.1
+____________________________________
+NP_006821.1 -> hsa
+XP_001148727.1 -> ptr
+XP_854591.1 -> cfa
+NP_776640.1 -> bta
+NP_079926.1 -> mmu
+NP_001119569.1 -> rno
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, xtr, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, 
+Not present in Groups : Group3, Group5, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 105
+Human counterpart : NP_003356.2
+____________________________________
+NP_003356.2 -> hsa
+NP_001035208.1 -> mcc
+NP_777054.1 -> bta
+NP_079683.2 -> mmu
+NP_001004250.1 -> rno
+NP_957114.1 -> dre
+NP_001016710.1 -> xtr
+
+Total homolog = 7
+Total distinct organism = 7
+Protein present in : xtr, dre, rno, mmu, bta, mcc, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, cfa, ptr, gga, 
+Present in Groups : Group1, Group2, Group3, Group6, Group7, Group8, 
+Not present in Groups : Group4, Group5, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NP_498202.1 -> cel -> NONE
+
+
+____________________________________
+
+Protein No. 106
+Human counterpart : NP_003357.2
+____________________________________
+NP_003357.2 -> hsa
+NP_001233459.1 -> ptr
+XP_536942.1 -> cfa
+NP_777055.1 -> bta
+NP_080175.1 -> mmu
+NP_001006971.1 -> rno
+NP_001001589.1 -> dre
+NP_001261955.1 -> dme
+XP_316158.3 -> aga
+NP_001016666.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, aga, dme, dre, rno, mmu, bta, cfa, ptr, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, mcc, gga, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group3, Group5, Group10, Group11, 
+Other Homolog Not in search:
+NP_566548.1 -> ath -> NONE
+NP_001044193.1 -> osa -> NONE
+NP_001042272.1 -> osa -> NONE
+NP_001056089.1 -> osa -> NONE
+
+
+____________________________________
+
+Protein No. 107
+Human counterpart : NP_005995.2
+____________________________________
+XP_001160739.1 -> ptr
+XP_005629093.1 -> cfa
+NP_001029917.1 -> bta
+NP_001264602.1 -> gga
+NP_001032185.1 -> dre
+XP_002931521.2 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, dre, gga, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, mcc, rno, mmu, hsa, 
+Present in Groups : Group1, Group2, Group4, Group5, Group7, Group8, 
+Not present in Groups : Group3, Group6, Group9, Group10, Group11, 
+Other Homolog Not in search:
+XP_006521701.1 -> mmu -> NONE
+
+
+____________________________________
+
+Protein No. 108
+Human counterpart : NP_001186904.1
+____________________________________
+NP_001186904.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 109
+Human counterpart : NP_006285.1
+____________________________________
+XP_519866.1 -> ptr
+XP_001094441.2 -> mcc
+XP_535132.4 -> cfa
+NP_001029969.1 -> bta
+NP_080495.1 -> mmu
+NP_001019613.1 -> dre
+NP_651614.1 -> dme
+NP_573110.1 -> dme
+XP_320347.4 -> aga
+
+Total homolog = 9
+Total distinct organism = 8
+Protein present in : aga, dme, dre, mmu, bta, cfa, mcc, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, xtr, gga, rno, hsa, 
+Present in Groups : Group1, Group2, Group3, Group4, Group6, Group8, Group9, 
+Not present in Groups : Group5, Group7, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 110
+Human counterpart : NP_055217.2
+____________________________________
+NP_055217.2 -> hsa
+XP_001085732.1 -> mcc
+XP_852164.1 -> cfa
+NP_777230.1 -> bta
+NP_079628.1 -> mmu
+NP_001020305.1 -> rno
+XP_003642138.1 -> gga
+NP_001002495.2 -> dre
+XP_311607.2 -> aga
+NP_001016654.1 -> xtr
+
+Total homolog = 10
+Total distinct organism = 10
+Protein present in : xtr, aga, dre, gga, rno, mmu, bta, cfa, mcc, hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, dme, ptr, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, 
+Not present in Groups : Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 111
+Human counterpart : NP_001003684.1
+____________________________________
+NP_001003684.1 -> hsa
+
+Total homolog = 1
+Total distinct organism = 1
+Protein present in : hsa, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, cfa, mcc, ptr, xtr, gga, rno, mmu, bta, 
+Present in Groups : Group2, 
+Not present in Groups : Group1, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 112
+Human counterpart : NP_037519.2
+____________________________________
+XP_001137262.1 -> ptr
+XP_852402.1 -> cfa
+NP_001107195.1 -> bta
+NP_932096.1 -> mmu
+NP_001163936.1 -> rno
+NP_001037895.1 -> xtr
+
+Total homolog = 6
+Total distinct organism = 6
+Protein present in : xtr, rno, mmu, bta, cfa, ptr, 
+Protein not present in : ago, spo, kla, sce, osa, ath, ncr, mgr, cel, aga, dme, dre, mcc, gga, hsa, 
+Present in Groups : Group1, Group2, Group4, Group6, Group7, 
+Not present in Groups : Group3, Group5, Group8, Group9, Group10, Group11, 
+Other Homolog Not in search:
+NONE
+
+____________________________________
+
+Protein No. 113
+Human counterpart : NP_005994.2
+____________________________________
+NP_005994.2 -> hsa
+XP_001101289.1 -> mcc
+XP_533711.1 -> cfa
+NP_777238.1 -> bta
+NP_079986.1 -> mmu
+NP_001008888.1 -> rno
+NP_001005843.1 -> gga
+NP_001096664.1 -> dre
+XP_319708.4 -> aga
+NP_501361.1 -> cel
+NP_010890.3 -> sce
+XP_454973.1 -> kla
+NP_984794.1 -> ago
+NP_595941.1 -> spo
+XP_962348.1 -> ncr
+NP_196848.1 -> ath
+NP_568288.1 -> ath
+NP_001046975.1 -> osa
+NP_001052672.1 -> osa
+NP_988911.1 -> xtr
+
+Total homolog = 20
+Total distinct organism = 18
+Protein present in : xtr, osa, ath, ncr, spo, ago, kla, sce, cel, aga, dre, gga, rno, mmu, bta, cfa, mcc, hsa, 
+Protein not present in : mgr, dme, ptr, 
+Present in Groups : Group1, Group2, Group3, Group4, Group5, Group6, Group7, Group8, Group9, Group10, Group11, 
+Not present in Groups : NONE
+Other Homolog Not in search:
+XP_003712616.1 -> mgr -> NONE
+
+
