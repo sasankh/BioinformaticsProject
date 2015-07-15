@@ -1,18 +1,3 @@
-# Name: Sasankh B.C.
-# Class: BIOI4980 
-# 
-# Honor Pledge: On my honor as a student of the University
-#               of Nebraska at Omaha, I have neither given nor
-#               received unauthorized help on this homework
-#               assignment.
-# 
-# NAME: Sasankh B.C.
-# NUID: 52829961
-# EMAIL: sbc@unomaha.edu
-# 
-# Partners: NONE
-# 
-# The program obtain the Kegg pathway of the respective proteins
 
 import MySQLdb
 import sys
@@ -41,12 +26,12 @@ def createTable(db, cursor3):
             ID int NOT NULL AUTO_INCREMENT,
             mtHumanProtein varchar(26) NOT NULL,
             mtHomolog_id varchar(26) NOT NULL,
-            gi varchar(26) NOT NULL, 
+            gi varchar(26) NOT NULL,
             org varchar(50) NOT NULL,
             keggID varchar(50) NOT NULL,
             pathway varchar(50) NOT NULL,
             pathwayName varchar(50) NOT NULL,
-            mtChecker varchar(700), 
+            mtChecker varchar(700),
             PRIMARY KEY (ID)
             )"""
     dbExecute(db, cursor3, command)

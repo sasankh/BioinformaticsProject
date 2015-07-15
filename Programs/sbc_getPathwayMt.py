@@ -1,18 +1,3 @@
-# Name: Sasankh B.C.
-# Class: BIOI4980 
-# 
-# Honor Pledge: On my honor as a student of the University
-#               of Nebraska at Omaha, I have neither given nor
-#               received unauthorized help on this homework
-#               assignment.
-# 
-# NAME: Sasankh B.C.
-# NUID: 52829961
-# EMAIL: sbc@unomaha.edu
-# 
-# Partners: NONE
-# 
-# The program obtain the Kegg pathway of the respective proteins
 
 import MySQLdb
 import sys
@@ -40,7 +25,7 @@ def createTable(db, cursor):
 # Create table to store pathways from KEGG
     command = """CREATE TABLE keggPathwayMt (
             ID int NOT NULL AUTO_INCREMENT,
-            protein varchar(26) NOT NULL, 
+            protein varchar(26) NOT NULL,
             org varchar(50) NOT NULL,
             keggID varchar(50) NOT NULL,
             pathway varchar(50) NOT NULL,
@@ -71,7 +56,7 @@ def readyDbEntry(org, keggID, sendToKegg, pathways, protein, db, cursor, mtCheck
     pathwaysSplit = str(pathways)
     mtChecker = str(mtChecker)
     if (pathwaysSplit == "NONE"):
-        command = "INSERT INTO keggPathwayMt (protein, org, keggID, pathway, pathwayName, mtChecker) VALUES ('%s', '%s', '%s', '%s', '%s', '%s');" % (protein ,org, sendToKegg, "NONE", "NONE", mtChecker)  
+        command = "INSERT INTO keggPathwayMt (protein, org, keggID, pathway, pathwayName, mtChecker) VALUES ('%s', '%s', '%s', '%s', '%s', '%s');" % (protein ,org, sendToKegg, "NONE", "NONE", mtChecker)
         dbExecute(db, cursor, command)
     else:
         pathwaysSplit = pathwaysSplit.split("\n")
@@ -96,7 +81,7 @@ def findPathway(sendToKegg):
         pathways = "NONE"
     send = pathways + "+++" + mtCheck
     return send
-    
+
 def getPathway(keggData):
     pathways = ""
     check = 0

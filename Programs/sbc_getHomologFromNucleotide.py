@@ -1,20 +1,3 @@
-# Name: Sasankh B.C.
-# Class: BIOI4980 
-# 
-# Honor Pledge: On my honor as a student of the University
-#               of Nebraska at Omaha, I have neither given nor
-#               received unauthorized help on this homework
-#               assignment.
-# 
-# NAME: Sasankh B.C.
-# NUID: 52829961
-# EMAIL: sbc@unomaha.edu
-# 
-# Partners: NONE
-# 
-# This program reads the sequences in the FASTA format for the 
-# entered file and prints the header nad the sequence as desired
-# by the user in the monitor or in a file.
 
 import MySQLdb
 import sys
@@ -24,10 +7,10 @@ from Bio import Entrez
 from Bio.KEGG.REST import *
 
 def main():
-    Entrez.email = "sbc@unomaha.edu"
+    Entrez.email = "enteremail@gmail.com"
 
 # Open database connection and prepare a cursor object using cursor() method
-    
+
     print "If you don't enter the right db Name and password the program will crash"
     dbUser = raw_input ("Please enter an existing MYSQLdb username: ")
     dbPass = raw_input ("Please enter the password for the user: ")
@@ -44,7 +27,7 @@ def main():
           sys.exit(2)
 # Go through commands line and perform the corresponding tasks
     for (opt, arg) in opts:
-#read from the input file if there is "-i" present in the command line    
+#read from the input file if there is "-i" present in the command line
         if opt == "-i":
             inFile = open(arg, "r")
             lines = inFile.readlines();
@@ -64,7 +47,7 @@ def createTable(db, cursor):
 # Create table to store mitochondria nucleotide and its respective protein id
     command = """CREATE TABLE humanMtProtein (
             ID int NOT NULL AUTO_INCREMENT,
-            mtNucleotide_id varchar(26) NOT NULL, 
+            mtNucleotide_id varchar(26) NOT NULL,
             mtProtein_id varchar(26),
 	    PRIMARY KEY (ID)
             )"""
@@ -72,7 +55,7 @@ def createTable(db, cursor):
 # Create table to store human mtProtein and its homolog
     command = """CREATE TABLE humanMtHomolog (
             ID int NOT NULL AUTO_INCREMENT,
-            mtHumanProtein varchar(26) NOT NULL, 
+            mtHumanProtein varchar(26) NOT NULL,
             mtHomolog_id varchar(50) NOT NULL,
             gi varchar(26) NOT NULL,
 	    keggID varchar(26) NOT NULL,
@@ -138,10 +121,10 @@ def parser(tmpFileName, search_term, which_db ,db, cursor):
 		kegg_ids = keggConvert(gi)
 		keggSplit = kegg_ids.split("+")
 		org = keggSplit[0]
-		kegg_id = keggSplit[1] 
+		kegg_id = keggSplit[1]
                 sendDatabase(search_term, gi, protein_id, which_db, db, cursor, org, kegg_id)
                 if (which_db == "protein"):
-                    getProtein("homologene", protein_id, db, cursor) 
+                    getProtein("homologene", protein_id, db, cursor)
     os.remove(tmpFileName)
 
 def parse(inLine, search_term, db, cursor):
@@ -176,7 +159,7 @@ def dbExecute(db, cursor, command):
     except:
         db.rollback()
     db.commit()
-    
+
 def keggConvert(gi):
 #convert to kegg
     ncbi_gi = "ncbi-gi:"+gi

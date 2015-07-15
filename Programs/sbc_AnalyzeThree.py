@@ -1,17 +1,3 @@
-# Name: Sasankh B.C.
-# Class: BIOI4980 
-# 
-# Honor Pledge: On my honor as a student of the University
-#               of Nebraska at Omaha, I have neither given nor
-#               received unauthorized help on this homework
-#               assignment.
-# 
-# NAME: Sasankh B.C.
-# NUID: 52829961
-# EMAIL: sbc@unomaha.edu
-# 
-# Partners: NONE
-
 # The program analyzes the table organize and gives the summary based on user input criteria.
 import MySQLdb
 import sys
@@ -138,8 +124,8 @@ def ProcessOne(db, cursor1, cursor2, cursor3, cursor4, cursor5, pathOptionOne, t
     closeCommand1 = "DROP VIEW %s;" % (tableName)
     cursor1.execute(closeCommand1)
     return data
-    
-     
+
+
 def startProcess(db, cursor1, cursor2, cursor3, cursor4, cursor5, tableName):
 # retrieve the data from the database and start the new table entry
     answer = "Summary of Analysis\n\n\n"
@@ -159,10 +145,10 @@ def startProcess(db, cursor1, cursor2, cursor3, cursor4, cursor5, tableName):
             break
         infoOrg = notInOrg(db, cursor3, tableName, mtHumanProtein)
         count = count + 1
-        add = "____________________________________\n\nProtein No. %d\nHuman counterpart : %s\n____________________________________\n" % (count, mtHumanProtein) 
+        add = "____________________________________\n\nProtein No. %d\nHuman counterpart : %s\n____________________________________\n" % (count, mtHumanProtein)
         answer = answer + add
-        countIn = 0 
-        for row1 in cursor2: 
+        countIn = 0
+        for row1 in cursor2:
             mtHomolog_id = row1[0]
             org = row1[1]
             addSub = mtHomolog_id + " -> " + org + "\n"
@@ -171,7 +157,7 @@ def startProcess(db, cursor1, cursor2, cursor3, cursor4, cursor5, tableName):
         totalHomo = "\nTotal homolog = %d\nTotal distinct organism = %d\n%s\n" % (countIn, orgNo, infoOrg)
         answer = answer + totalHomo + otherHomolog + "\n\n"
     return answer
-            
+
 def butHomo(db, cursor5, mtHumanProtein, tableName):
     command7 = "CREATE VIEW allHomo AS select mtHomolog_id, org, pathwayName FROM organize where mtHumanProtein = '%s';CREATE VIEW qHomo AS select mtHomolog_id, org FROM %s where mtHumanProtein = '%s';CREATE VIEW ans AS select distinct mtHomolog_id, org, pathwayName from allHomo where not exists (select mtHomolog_id from qHomo where qHomo.mtHomolog_id = allHomo.mtHomolog_id);" % (mtHumanProtein, tableName, mtHumanProtein)
     cursor6 = db.cursor()
@@ -270,10 +256,10 @@ def groupCheck(db, cursor3, mtHumanProtein):
        inGroup = "NONE"
     reply = "Present in Groups : %s\nNot present in Groups : %s" % (inGroup, notInGroup)
     totalSum(groups, mtHumanProtein)
-    return reply    
+    return reply
 
 def totalSum(groups, mtHumanProtein):
-    global g1, g2, g3, g4, g5, g6, g7, g8, g9, g10, g11, c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11 
+    global g1, g2, g3, g4, g5, g6, g7, g8, g9, g10, g11, c1, c2, c3, c4, c5, c6, c7, c8, c9, c10, c11
     if (groups[1] == 1):
        g1 = g1 + mtHumanProtein + ", "
        c1 = c1 + 1
