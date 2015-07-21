@@ -8,7 +8,6 @@ from Bio.KEGG.REST import *
 
 def main():
     Entrez.email = "enteremail@gmail.com"
-
 # Open database connection and prepare a cursor object using cursor() method
 
     print "If you don't enter the right db Name and password the program will crash"

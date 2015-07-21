@@ -7,7 +7,6 @@ from Bio import Entrez
 from Bio.KEGG.REST import *
 #from Bio.KEGG.KGML.KGML_parser import *
 def main():
-
 # Open database connection and prepare a cursor object using cursor() method
     print "If you don't enter the right db Name and password the program will crash"
     dbUser = raw_input ("Please enter an existing MYSQLdb username: ")

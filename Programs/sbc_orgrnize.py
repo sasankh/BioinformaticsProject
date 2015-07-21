@@ -5,7 +5,6 @@ import getopt
 import os, sys
 
 def main():
-
 # Open database connection and prepare a cursor object using cursor() method
     print "If you don't enter the right db Name and password the program will crash"
     dbUser = raw_input ("Please enter an existing MYSQLdb username: ")
